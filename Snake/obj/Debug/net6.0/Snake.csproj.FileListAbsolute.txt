@@ -1,0 +1,15 @@
+C:\Users\toalb\Documents\Yrgo\CSharp\Snake\Snake\bin\Debug\net6.0\Snake.exe
+C:\Users\toalb\Documents\Yrgo\CSharp\Snake\Snake\bin\Debug\net6.0\Snake.deps.json
+C:\Users\toalb\Documents\Yrgo\CSharp\Snake\Snake\bin\Debug\net6.0\Snake.runtimeconfig.json
+C:\Users\toalb\Documents\Yrgo\CSharp\Snake\Snake\bin\Debug\net6.0\Snake.dll
+C:\Users\toalb\Documents\Yrgo\CSharp\Snake\Snake\bin\Debug\net6.0\ref\Snake.dll
+C:\Users\toalb\Documents\Yrgo\CSharp\Snake\Snake\bin\Debug\net6.0\Snake.pdb
+C:\Users\toalb\Documents\Yrgo\CSharp\Snake\Snake\obj\Debug\net6.0\Snake.csproj.AssemblyReference.cache
+C:\Users\toalb\Documents\Yrgo\CSharp\Snake\Snake\obj\Debug\net6.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toalb\Documents\Yrgo\CSharp\Snake\Snake\obj\Debug\net6.0\Snake.AssemblyInfoInputs.cache
+C:\Users\toalb\Documents\Yrgo\CSharp\Snake\Snake\obj\Debug\net6.0\Snake.AssemblyInfo.cs
+C:\Users\toalb\Documents\Yrgo\CSharp\Snake\Snake\obj\Debug\net6.0\Snake.csproj.CoreCompileInputs.cache
+C:\Users\toalb\Documents\Yrgo\CSharp\Snake\Snake\obj\Debug\net6.0\Snake.dll
+C:\Users\toalb\Documents\Yrgo\CSharp\Snake\Snake\obj\Debug\net6.0\ref\Snake.dll
+C:\Users\toalb\Documents\Yrgo\CSharp\Snake\Snake\obj\Debug\net6.0\Snake.pdb
+C:\Users\toalb\Documents\Yrgo\CSharp\Snake\Snake\obj\Debug\net6.0\Snake.genruntimeconfig.cache
